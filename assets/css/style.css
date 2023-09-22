@@ -1,0 +1,312 @@
+ /* footer */
+ .footer {
+    display: flex;
+    flex-direction: column;
+    width: auto;
+    height: auto;
+    align-items: center;
+    gap: 48px;
+    padding: 50px 0px;
+    position: relative;
+    background-color: #7a7676;
+  }
+  
+  .footer .line {
+    position: relative;
+    width: 1216px;
+    height: 1px;
+    margin-top: -1px;
+    object-fit: cover;
+  }
+  
+  .footer .table-container {
+    flex-direction: column;
+    width: 1280px;
+    gap: 64px;
+    padding: 0px 32px;
+    margin-bottom: -19px;
+    display: flex;
+    align-items: flex-start;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .footer .table {
+    gap: 152px;
+    align-self: stretch;
+    width: 100%;
+    display: flex;
+    align-items: flex-start;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .footer .vertical-container {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    align-items: flex-start;
+    gap: 16px;
+    position: relative;
+  }
+  
+  .footer .lookscout {
+    position: relative;
+    width: 254px;
+    height: 64px;
+  }
+  
+  .footer .logo {
+    position: relative;
+    width: 139px;
+    height: 56px;
+    top: 8px;
+    left: 2px;
+    background-image: url(../img/Logo_1-removebg-preview\ 1.png);
+    background-size: 100% 100%;
+  }
+  
+  .footer .lo-fi-text {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    height: 73px;
+    align-items: flex-start;
+    gap: 8px;
+    position: relative;
+  }
+  
+  .footer .kesehatan-bukanlah {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 14px;
+    letter-spacing: -0.1px;
+    line-height: 21px;
+  }
+  
+  .footer .div {
+    display: flex;
+    align-items: flex-start;
+    gap: 70px;
+    position: relative;
+    flex: 1;
+    flex-grow: 1;
+  }
+  
+  .footer .vertical-container-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 24px;
+    position: relative;
+    flex: 1;
+    flex-grow: 1;
+  }
+  
+  .footer .vertical-container-2 {
+    display: flex;
+    flex-direction: column;
+    width: 169.5px;
+    align-items: flex-start;
+    gap: 24px;
+    position: relative;
+    flex: 1;
+    flex-grow: 1;
+    margin-right: -31px;
+  }
+  
+  .footer .text-wrapper {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Poppins-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: -0.1px;
+    line-height: normal;
+  }
+  
+  .footer .vertical-container-3 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 9px;
+    position: relative;
+    flex: 0 0 auto;
+    margin-bottom: -15px;
+  }
+  
+  .footer .text-wrapper-2 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Poppins-Light", Helvetica;
+    font-weight: 300;
+    color: #000000;
+    font-size: 13px;
+    letter-spacing: -0.1px;
+    line-height: normal;
+  }
+  
+  .footer .text-wrapper-3 {
+    position: relative;
+    width: fit-content;
+    font-family: "Poppins-Light", Helvetica;
+    font-weight: 300;
+    color: #000000;
+    font-size: 13px;
+    letter-spacing: -0.1px;
+    line-height: normal;
+  }
+  
+  .footer .vertical-container-4 {
+    display: flex;
+    flex-direction: column;
+    width: 171px;
+    align-items: flex-start;
+    gap: 24px;
+    position: relative;
+    flex: 0 0 auto;
+    margin-right: -32.5px;
+  }
+  
+  .footer .vertical-container-5 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 12px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .footer .low-fi-link {
+    display: flex;
+    align-items: flex-start;
+    gap: 6px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+  }
+  
+  .footer .div-wrapper {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 12px;
+    position: relative;
+    flex: 0 0 auto;
+    margin-right: -15.17px;
+  }
+  
+  .footer .vertical-container-6 {
+    display: flex;
+    flex-direction: column;
+    width: 153.67px;
+    align-items: flex-start;
+    gap: 24px;
+    position: relative;
+    flex: 1;
+    flex-grow: 1;
+  }
+  
+  .footer .vertical-container-7 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 12px;
+    position: relative;
+    flex: 0 0 auto;
+    margin-bottom: -28px;
+    margin-right: -3.33px;
+  }
+  
+  .footer .vertical-container-8 {
+    display: flex;
+    flex-direction: column;
+    width: 153.67px;
+    align-items: flex-start;
+    gap: 24px;
+    position: relative;
+    flex: 1;
+    flex-grow: 1;
+    margin-right: -15.17px;
+  }
+  
+  .footer .vertical-container-9 {
+    display: inline-flex;
+    flex-direction: column;
+    height: 133px;
+    align-items: flex-start;
+    gap: 12px;
+    position: relative;
+    margin-bottom: -41px;
+  }
+  
+  .footer .img {
+    position: relative;
+    width: 24px;
+    height: 24px;
+  }
+  
+  .footer .vector {
+    position: relative;
+    width: 22px;
+    height: 19px;
+  }
+  
+  .footer .vector-2 {
+    position: relative;
+    width: 24px;
+    height: 18px;
+  }
+  
+  .footer .low-fi-link-2 {
+    display: flex;
+    align-items: flex-start;
+    gap: 6px;
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+    margin-bottom: -16px;
+  }
+  
+  .footer .horizontal-container {
+    display: flex;
+    width: 1216px;
+    height: 36px;
+    align-items: flex-end;
+    justify-content: space-around;
+    gap: 916px;
+    position: relative;
+    border-top-style: solid;
+    border-color: var(--neutral-700);
+  }
+  
+  .footer .lo-fi-text-2 {
+    display: flex;
+    flex-direction: column;
+    width: 524px;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    position: relative;
+  }
+  
+  .footer .p {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Poppins-Light", Helvetica;
+    font-weight: 300;
+    color: #000000;
+    font-size: 10px;
+    letter-spacing: -0.1px;
+    line-height: normal;
+  }
